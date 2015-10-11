@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/pre-dexed/debug/classes-55e7d0eb7ae550823d1adf0bf5d2f1075f687484.jar" />
+    </item>
+    <item
+        jar="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/pre-dexed/debug/classes-33a7132acf4431888c330944d8441f2f02a56042.jar" />
+    </item>
+    <item
+        jar="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/pre-dexed/debug/classes-68d3abef324fdeabbb726b9822777904a6ab6980.jar" />
+    </item>
+    <item
+        jar="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/pre-dexed/debug/classes-a878bac4c35c420af200c74fd46dcd334ee1bacb.jar" />
+    </item>
+    <item
+        jar="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/pre-dexed/debug/classes-ac7f1976bcda7802c878a726f79debd788b041c6.jar" />
+    </item>
+    <item
+        jar="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/pre-dexed/debug/classes-7140f3a1ae3eb056a6433547fc759ce00dd7aea6.jar" />
+    </item>
+    <item
+        jar="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-28357261f05501eef4b83a7b0358bd30f5a25251.jar" />
+    </item>
+    <item
+        jar="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/pre-dexed/debug/classes-f72b192e73f90723940636658f5ccfe6aee57b08.jar" />
+    </item>
+    <item
+        jar="/Users/wchoulos/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-39bf4a494f9de60d176727899c344f74ec6dee33.jar" />
+    </item>
+    <item
+        jar="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/pre-dexed/debug/classes-86b9b2fc64c3332846f4943abee802090053934d.jar" />
+    </item>
+    <item
+        jar="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/pre-dexed/debug/classes-03553f1325e17d3804f7a931a183055443c816b8.jar" />
+    </item>
+    <item
+        jar="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/pre-dexed/debug/classes-bd6f20cdea11a78c672e5b2dddebd78bd1364b19.jar" />
+    </item>
+    <item
+        jar="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/pre-dexed/debug/classes-3ace0a1a218452832f9ed23ac7468950b3453eb4.jar" />
+    </item>
+    <item
+        jar="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/pre-dexed/debug/classes-e36c4d058eeda90a07a8c59074505241bff044d2.jar" />
+    </item>
+    <item
+        jar="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/pre-dexed/debug/classes-ef8ed2d67594101e7b6e325c26e7315c7a64d26c.jar" />
+    </item>
+    <item
+        jar="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/pre-dexed/debug/classes-24ef370d11fbf43bd23cee1067bf0ab9d83055d3.jar" />
+    </item>
+    <item
+        jar="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/pre-dexed/debug/classes-4214cb58f059b58b51122b3da32950c71401ca2b.jar" />
+    </item>
+    <item
+        jar="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/pre-dexed/debug/classes-97728de0c4e1794c63e096af3b768505a6cea2c2.jar" />
+    </item>
+    <item
+        jar="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/pre-dexed/debug/classes-0b618b5aae38de315887d1aaff6e6a6e27c9695a.jar" />
+    </item>
+    <item
+        jar="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/pre-dexed/debug/classes-c931294c3df6902c86f350eb1c843bdfb7f0c9b2.jar" />
+    </item>
+    <item
+        jar="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/pre-dexed/debug/classes-6e0a931a8cf4ccb58e8095284ecc470839f26506.jar" />
+    </item>
+    <item
+        jar="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/pre-dexed/debug/classes-72e707b70146020349b6e388edefee4b49330c16.jar" />
+    </item>
+    <item
+        jar="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="/Users/wchoulos/AndroidStudioProjects/calMaps/app/build/intermediates/pre-dexed/debug/classes-5af63d1491d7e7cbac07abe3954bfa6ad9068620.jar" />
+    </item>
+
+</items>
