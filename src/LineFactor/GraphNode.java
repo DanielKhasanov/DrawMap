@@ -38,9 +38,14 @@ public class GraphNode {
 		return this.neighbors;
 	}
 	
-	double distanceFrom(GraphNode n) {
+	double distanceFromNode(GraphNode n) {
 		return Math.sqrt(Math.pow((n.getX() - this.posX), 2) + Math.pow((n.getY() - this.posY), 2));
 	}
+	
+	double distanceFromPoint(double x, double y) {
+		return Math.sqrt(Math.pow((x - this.posX), 2) + Math.pow((y - this.posY), 2));
+	}
+	
 	
 	void setDistanceCost(double d) {
 		this.distanceCost = d;
@@ -53,6 +58,12 @@ public class GraphNode {
 	}
 	GraphNode getPredecessor() {
 		return this.predecessor;
+	}
+	
+	@Override
+	public String toString() {
+		return "{ " + this.posX + ", " + this.posY + "}";
+		
 	}
 	
 	
